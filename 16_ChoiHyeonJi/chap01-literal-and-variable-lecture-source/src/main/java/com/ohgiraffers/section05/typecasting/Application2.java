@@ -37,6 +37,7 @@ public class Application2 {
 
     /* 문자 -> 숫자 */
     System.out.println((int)'Y');
+
     
   }
 }
